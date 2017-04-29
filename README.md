@@ -1,6 +1,6 @@
 # BounceForMinecraft
 A plugin that handles custom bouncing for Bukkit Servers
-Changelog: https://gist.github.com/keefer212/e5634bbc0591dc8fb26ebc6432696a22
+Changelog: https://goo.gl/6s5AyO
 
 Download:
-  v0.3
+  v0.3 https://goo.gl/MkWtjg
