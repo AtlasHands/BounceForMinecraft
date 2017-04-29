@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BounceMinecraft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BounceMinecraft_jar</output-path>
+    <root id="archive" name="BounceMinecraft.jar">
+      <element id="module-output" name="BounceMinecraft" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

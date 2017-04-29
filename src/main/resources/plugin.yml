@@ -1,0 +1,7 @@
+name: Bounce
+version: ${project.version}
+main: com.keefersands.bounce.Bounce
+
+commands:
+  up:
+    description: move player up 30
