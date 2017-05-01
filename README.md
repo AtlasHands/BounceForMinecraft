@@ -6,5 +6,5 @@ Currently configured to work with a Stone Pressure Plate and a Gold Block
 Changelog: https://goo.gl/6s5AyO
 
 Download:
-  v0.32 
+  v0.32 https://goo.gl/iIlxyE
   v0.3  https://goo.gl/MkWtjg
