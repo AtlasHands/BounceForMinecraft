@@ -6,7 +6,7 @@
 
     <groupId>com.keefersands.Bounce</groupId>
     <artifactId>Bounce</artifactId>
-    <version>.2</version>
+    <version>0.32</version>
     <packaging>jar</packaging>
 
     <name>Bounce</name>

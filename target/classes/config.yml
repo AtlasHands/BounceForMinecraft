@@ -1,2 +1,4 @@
 maxHeight: 5
 initialV: 4
+TypeOfPad: STONE_PLATE
+BlockUnder: GOLD_BLOCK
