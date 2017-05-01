@@ -1,7 +1,7 @@
 # Bounce
 A plugin that handles custom bouncing for Bukkit Servers
 
-Currently configured to work with a Stone Pressure Plate and a Gold Block
+Configuration is changeable in config.yml where you can change speed, duration, activation block and block underneath
 
 Changelog: https://goo.gl/6s5AyO
 
